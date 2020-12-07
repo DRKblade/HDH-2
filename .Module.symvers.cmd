@@ -1,1 +1,0 @@
-cmd_/home/quan/projects/HDH-2/Module.symvers := sed 's/ko$$/o/' /home/quan/projects/HDH-2/modules.order | scripts/mod/modpost  -a   -o /home/quan/projects/HDH-2/Module.symvers -e -i Module.symvers  -N -T -
